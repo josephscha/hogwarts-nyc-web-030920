@@ -1,17 +1,28 @@
 # Hogwarts: The React app for fans of prize-winning pigs
 
 ## React Week 1 Project
-
+App 
+|-HelloWorld
+|
+|-Nav
 ## Project goals:
 
 * create an index displaying all hog tiles
+Finished
 * render each hog name and picture in a tile
+Finished
 * show the hog's details upon a user's click
+Finished
 * filter the hogs that are greased
+FINISHED
 * sort the hogs based on name
+FINISHED
 * sort the hogs based on weight 
+FINISHED
 
-* BONUS: allow users to hide hogs (not delete them, just hide them from view!)
+* BONUS: allow users to hide hogs (not delete them, just hide them from view!) - Individual pigs. Design decision. 
+FINISHED
+
 * BONUS: bring in pig gifs from an API
 * BONUS: implement [Semantic Cards](https://semantic-ui.com/views/card.html) for each hog
 
